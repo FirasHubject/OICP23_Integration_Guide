@@ -64,3 +64,8 @@ only works with CPO’s offer that have Flexible/Dynamic as Pricing Model.
 
 ## Error Codes:
 
+
+| OICP Status Codes | Description | Additional information |
+| ----------------- | ----------- | ----------------------
+| 000               | Success     |                        |
+| Any other status code | Error   |  **Status Code Page URL** |
