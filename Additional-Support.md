@@ -1,5 +1,5 @@
 
-##  Additional Support ##
+#  Additional Support #
 
 Contact information for support
 --------------- 
