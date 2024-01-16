@@ -1,12 +1,5 @@
-  1. [Firas.Hachem](index.html)
-  2. [FinalOICP 2.3 Integration Guide](FinalOICP-2.3-Integration-Guide_3626500097.html)
-  3. [FinalOverview](FinalOverview_3626500112.html)
-  4. [FinalIntroduction](FinalIntroduction_3626500126.html)
 
-#  Firas.Hachem : FinalRoles of the ecosystem (EMP and CPO) and how the
-document is structured accordingly
-
-Created by  Stefania Sau on Jan 12, 2024
+# Roles of the ecosystem (EMP and CPO) and how the
 
 The two main roles in the HBS ecosystem are, on the one hand, providers of
 emobility services (EMP), which want to enable EV drivers to access charging
