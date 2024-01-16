@@ -3,7 +3,7 @@
   3. [FinalServices](FinalServices_3626500498.html)
   4. [FinalServices Implementation for EMPs](FinalServices-Implementation-for-EMPs_3626500913.html)
 
-#  Firas.Hachem : FinalBest Practice: PullEvseStatus by OperatorID
+#  FinalBest Practice: PullEvseStatus by OperatorID
 
 Created by  Stefania Sau on Jan 12, 2024
 
