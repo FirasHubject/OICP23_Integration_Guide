@@ -1,7 +1,7 @@
 
 #  Additional Support
 
-#  Contact information for support
+====  Contact information for support
 
 In case you have questions or you are facing difficulties during your
 integration process, you can reach your Onboarding Manager by sending a
