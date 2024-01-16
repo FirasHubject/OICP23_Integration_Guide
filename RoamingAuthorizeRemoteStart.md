@@ -1,8 +1,4 @@
 
-
-#  RoamingAuthorizeRemoteStart Service (EMP)
-
-
 # eRoamingAuthorizeRemoteStart Service (EMP)
 
 ## Description:
