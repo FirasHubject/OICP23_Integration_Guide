@@ -1,9 +1,6 @@
-  1. [Firas.Hachem](index.html)
-  2. [FinalOICP 2.3 Integration Guide](FinalOICP-2.3-Integration-Guide_3626500097.html)
-  3. [FinalServices](FinalServices_3626500498.html)
-  4. [FinalServices Implementation for EMPs](FinalServices-Implementation-for-EMPs_3626500913.html)
 
-#  FinalBest Practice: PullEvseStatus by OperatorID
+
+#  Best Practice: PullEvseStatus by OperatorID
 
 Created by  Stefania Sau on Jan 12, 2024
 
