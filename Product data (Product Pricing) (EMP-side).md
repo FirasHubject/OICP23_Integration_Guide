@@ -66,42 +66,12 @@ Flexible/Dynamic Pricing Model.
 
 ## Error Codes:
 
- **OICP Status Codes**
+ 
 
-|
-
- **Description**
-
-|
-
- **Additional information**  
-  
----|---|---  
-  
-000
-
-|
-
-Success
-
-|  
-  
-Any other status code
-
-|
-
-Error
-
-|
-
-[Status Code Page](FinalOICP-status-code_3626501182.html)  
-  
-## Attachments:
-
-![](images/icons/bullet_blue.gif) [Screenshot 2023-12-01 at
-13.57.19.png](attachments/3626501026/3626501040.png) (image/png)  
-![](images/icons/bullet_blue.gif) [Screenshot 2023-12-01 at
-13.57.30.png](attachments/3626501026/3626501043.png) (image/png)  
+| OICP Status Codes | Description | Additional information |
+| ----------------- | ----------- | ----------------------
+| 000               | Success     |                        |
+| Any other status code | Error   |  **Status Code Page URL** |
 
 
 
