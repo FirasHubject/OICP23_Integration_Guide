@@ -2,8 +2,6 @@
 
 #  Definition that document is the leading one
 
-Created by  Stefania Sau on Jan 12, 2024
-
 Our Integration Guide stands as the **leading document** for a smooth
 integration with HBS.
 
