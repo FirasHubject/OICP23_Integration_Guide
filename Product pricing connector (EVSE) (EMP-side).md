@@ -9,8 +9,7 @@ CPOs. Upon receiving the EMP's request, currently valid EVSE pricing data in
 the HBS for the requesting EMP is grouped by OperatorID and sent in response.
 
 Explore the specific details of the [eRoamingPullEvsePricing
-Service](https://hubject.github.io/oicp-emp-2.3-api-
-doc/#tag/eRoamingDynamicPricing/operation/eRoamingPullEVSEPricing_V1.0) using
+Service](https://hubject.github.io/oicp-emp-2.3-api-doc/#tag/eRoamingDynamicPricing/operation/eRoamingPullEVSEPricing_V1.0) using
 the linked OpenAPI.
 
 ## Process Diagram:
