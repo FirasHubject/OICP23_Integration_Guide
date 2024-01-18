@@ -144,8 +144,7 @@ your EVSEID (in field placeholder `EvseID`)
 
 We highly recommend providing information for all fields including optional
 fields as this will benefit your [EVSE Data Score.
-](https://www.hubject.com/products/evse-data-
-score#:~:text=The%20EVSE%20Data%20Score%20checks,and%20provides%20an%20average%20score)Providing
+](https://www.hubject.com/products/evse-data-score#:~:text=The%20EVSE%20Data%20Score%20checks,and%20provides%20an%20average%20score)Providing
 additional details about your stations to EMPs not only boosts your EVSE Data
 Score but also elevates your partner profile.
 
