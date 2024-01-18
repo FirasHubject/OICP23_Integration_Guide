@@ -90,5 +90,3 @@ allow EMPs to display the charging progress to the EV driver improving
 drivers' experience.
 
 
-[Atlassian](http://www.atlassian.com/)
-
