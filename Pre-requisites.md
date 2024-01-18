@@ -1,4 +1,4 @@
- # FinalPre-requisites: Preparing your system, Questionnaires, IP Whitelisting, CSR
+ # Pre-requisites: Preparing your system, Questionnaires, IP Whitelisting, CSR
 
 For a seamless integration, you will have to fulfill prerequisites. Your
 Hubject Onboarding Manager will provide you with a Business Questionnaire and
