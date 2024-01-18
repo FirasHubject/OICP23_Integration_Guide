@@ -1,3 +1,0 @@
-
-#  leRoamingEVSEAssignment API for CPO
-
