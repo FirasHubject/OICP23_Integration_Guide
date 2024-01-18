@@ -23,7 +23,15 @@ changes as needed.
 
  **OICP 2.3 Endpoints:**
 
- 
+ | Service | Version |
+| ----------------- | ----------- |
+| eRoamingAuthorization               | 2.1     |
+| eRoamingChargeDetailRecord | 2.2   | 
+| eRoamingReservation | 1.1   |  
+|eRoamingEVSEData |2.3|
+|eRoamingEVSEStatus | 2.1|
+|eRoamingDynamicPricing | 1.0 |
+|eRoamingChargingNotifications | 1.1 |
   
 ## Protocol Versioning Description:
 
