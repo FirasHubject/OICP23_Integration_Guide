@@ -1,12 +1,3 @@
-  1. [Firas.Hachem](index.html)
-  2. [FinalOICP 2.3 Integration Guide](FinalOICP-2.3-Integration-Guide_3626500097.html)
-  3. [FinalServices](FinalServices_3626500498.html)
-  4. [FinalServices Implementation for CPOs](FinalServices-Implementation-for-CPOs_3626500540.html)
-
-#  Firas.Hachem : FinaleRoamingChargingNotifications Error Service
-
-Created by  Stefania Sau on Jan 12, 2024
-
 # eRoamingChargingNotifications Error Service
 
 ## Description
@@ -70,35 +61,11 @@ from a successful AuthoirzeStart request.
 
 ## Status Code
 
- **OICP Status Codes**
+| OICP Status Codes | Description | Additional information |
+| ----------------- | ----------- | ----------------------
+| 000               | Success     |                        |
+| Any other status code | Error   |  **Status Code Page URL** |
 
-|
-
- **Description**
-
-|
-
- **Additional information**  
-  
----|---|---  
-  
-000
-
-|
-
-Success
-
-|  
-  
-Any other status code
-
-|
-
-Error
-
-|
-
-[Status Code Page](FinalOICP-status-code_3626501182.html)  
   
 ## Best Practice
 
