@@ -38,18 +38,3 @@ environment.
 
   * If the EMP has to test invoice management on the VCP, it’s likely that the existing service offer will need to be cancelled and replaced by one that has some actual prices in it; otherwise the generated CDRs cannot be properly rated.
 
-## Attachments:
-
-![](images/icons/bullet_blue.gif)
-[remotestart-20231020-091224.png](attachments/3626500386/3626500396.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[reservationstart-20231020-091052.png](attachments/3626500386/3626500399.png)
-(image/png)  
-![](images/icons/bullet_blue.gif) [1e5152f4-014f-4bfe-
-aa49-0c03b28cb006-20231020-090852.png](attachments/3626500386/3626500402.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image-20231020-090222.png](attachments/3626500386/3626500405.png) (image/png)  
-
-
