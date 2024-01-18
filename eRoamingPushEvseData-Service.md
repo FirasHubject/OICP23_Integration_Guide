@@ -7,8 +7,7 @@ system. This service encompasses all Point of Interest (POI) data components
 for each of your charging stations, thereby delivering valuable insights to
 eMobility Service Providers connecting to your charging stations through our
 HUB. Explore the specific details of the [eRoamingPushEvseData
-Service](https://hubject.github.io/oicp-cpo-2.3-api-
-doc/#tag/eRoamingEvseData/operation/eRoamingPushEvseData_V2.3) using the
+Service](https://hubject.github.io/oicp-cpo-2.3-api-doc/#tag/eRoamingEvseData/operation/eRoamingPushEvseData_V2.3) using the
 linked OpenAPI.
 
 ## Process Diagram
