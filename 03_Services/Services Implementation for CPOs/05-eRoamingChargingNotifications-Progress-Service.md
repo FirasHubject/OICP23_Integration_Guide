@@ -16,6 +16,8 @@ doc/#tag/eRoamingChargingNotifications/operation/eRoamingChargingNotifications_V
 using the linked OpenAPI.
 
 ## Process Diagram
+![image](https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/a88eba0b-0459-4e46-876f-3d1405339eb1)
+
 
 ## Request
 
