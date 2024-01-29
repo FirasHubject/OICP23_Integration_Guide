@@ -14,6 +14,7 @@ doc/#tag/eRoamingAuthorization/operation/eRoamingAuthorizeStart_v2.1) using
 the linked OpenAPI.
 
 ## Process Diagram
+![image](https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/afd41ed6-d89c-4951-92f9-3a3c14241b2c)
 
 ## Request
 
