@@ -1,6 +1,6 @@
 # eRoamingPullEvseStatus Service
 
-## Description:
+## Description
 
 As an EMP, you can actively retrieve EVSE data from any Hubject network
 station, including all Point of Interest (POI) components, for valuable
@@ -12,9 +12,12 @@ operators.
 Explore the specific details of the [eRoamingPullEvseStatus
 Service](https://hubject.github.io/oicp-emp-2.3-api-doc/#tag/eRoamingEvseStatus) using the linked OpenAPI.
 
-## Process Diagram:
+## Process Diagram
 
-## Call / JSON Snippet:
+<img width="507" alt="image" src="https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/2b24846b-54ad-479c-a1a1-6845875b891b">
+
+
+## Call / JSON Snippet
 
 You can use this example to pull the status of the EVSEIDs existing in the HBS
 platform. Adapt the example to include your ProviderID (in the URL placeholder
@@ -28,7 +31,7 @@ platform. Adapt the example to include your ProviderID (in the URL placeholder
       "ProviderID": "{{providerID}}"
     }'
 
-## Response / JSON Snippet:
+## Response / JSON Snippet
 
     
     
@@ -58,19 +61,19 @@ platform. Adapt the example to include your ProviderID (in the URL placeholder
         }
     }
 
-## Status Codes:
+## Status Codes
 
 | OICP Status Codes | Description | Additional information |
 | ----------------- | ----------- | ----------------------
 | 000               | Success     |                        |
 | Any other status code | Error   |  **Status Code Page URL** |
   
-## Best Practices:
+## Best Practices
 
 We highly recommend pulling the EVSEStatus every 5 minutes to ensure the
 latest charging status synchronizes with your systems and applications.
 
-## Mapping OCPI to OICP:
+## Mapping OCPI to OICP
 
 |OCPP|OCPI|OICP|
 |---|---|---|
