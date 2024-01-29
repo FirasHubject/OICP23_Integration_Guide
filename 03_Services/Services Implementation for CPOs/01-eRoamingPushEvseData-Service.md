@@ -11,6 +11,8 @@ Service](https://hubject.github.io/oicp-cpo-2.3-api-doc/#tag/eRoamingEvseData/op
 linked OpenAPI.
 
 ## Process Diagram
+![image](https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/5236132e-b122-4acc-b1f8-6b1a001bcdfc)
+
 
 ## Request
 
