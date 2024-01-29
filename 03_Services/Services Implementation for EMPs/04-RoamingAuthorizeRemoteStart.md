@@ -1,7 +1,7 @@
 
 # eRoamingAuthorizeRemoteStart Service (EMP)
 
-## Description:
+## Description
 
 The charging process starts at the charging station when the EV driver, a
 customer of the EMP, tries to authenticate using the Application as the
@@ -15,9 +15,11 @@ using the linked OpenAPI. _Please note the Optional/Mandatory fields described
 in the Service pertain to the fields required once HBS receives the initial
 request from the EMP._
 
-## Process Diagram:
+## Process Diagram
+<img width="527" alt="image" src="https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/3a382148-1a36-4179-bbd7-01285bbb292f">
 
-## Call / JSON Snippet - Endpoint:
+
+## Call / JSON Snippet - Endpoint
 
 You can use this example to perform an AuthorizeRemoteStart to any CPO
 charging station that is in the HBS platform. Adapt the example to include
@@ -44,7 +46,7 @@ SessionID once request is received by the EMP._
     		}
     	}'
 
-## Response / JSON Snippet - Endpoint:
+## Response / JSON Snippet - Endpoint
 
     
     
@@ -60,7 +62,7 @@ SessionID once request is received by the EMP._
         "EMPPartnerSessionID": null
     }
 
-## Error Codes:
+## Error Codes
 
 | OICP Status Codes | Description | Additional information |
 | ----------------- | ----------- | ----------------------
