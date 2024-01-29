@@ -15,7 +15,7 @@ Process Diagram
 ## Request
 
 You can use this example to send a charge detail record (CDR) request. Adapt the example to include your OperatorID (in the url placeholder operatorID and fields placeholder and OperatorID) and your EVSEID (in field placeholder EvseID). In the SessionID field, use a sessionID obtained in the response from a successful AuthoirzeStart request.
-
+```
 curl --location 'https://service-qa.hubject.com/api/oicp/cdrmgmt/v22/operators/{{operatorID}}/charge-detail-record' \
 --header 'Content-Type: application/json' \
 --data '{
@@ -40,10 +40,10 @@ curl --location 'https://service-qa.hubject.com/api/oicp/cdrmgmt/v22/operators/{
             "20.541"
         ]
     }
-}'
-
-Response
-
+}
+```
+## Response
+```
 {
     "Result": true,
     "StatusCode": {
@@ -55,6 +55,7 @@ Response
     "CPOPartnerSessionID": null,
     "EMPPartnerSessionID": null
 }
+```
 
 Status Code
 | OICP Status Codes | Description | Additional information |
