@@ -15,7 +15,10 @@ eRoamingPushEvseStatus service.
 Explore the specific details of the [eRoamingPushEvseStatus
 Service](https://hubject.github.io/oicp-cpo-2.3-api-doc/#tag/eRoamingEvseStatus) using the linked OpenAPI.
 
-## Process diagram
+## Process Diagram
+
+![image](https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/2f4a044d-3c4d-4c08-83af-808164107ca7)
+
 
 ## Request
 
