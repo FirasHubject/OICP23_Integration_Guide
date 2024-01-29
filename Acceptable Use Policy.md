@@ -1,4 +1,4 @@
-# Mention acceptable use policy (including Throttling):
+# Acceptable use policy (including Throttling):
 
 
 Thousands of requests go through the HBS every day. In order to have a stable
