@@ -12,7 +12,7 @@ article](https://support.hubject.com/hc/en-
 us/articles/4403736387089-2-7-Service-type-settings)).
 
 Once the AuthorizeRemoteStart is forwarded to the CPO, the CPO `MUST` provide
-the response within a 60 seconds time frame, otherwise HBS will close the
+the response within a 60 second time frame, otherwise HBS will close the
 connection with a TimeOut error.
 
 Explore the specific details of the
@@ -20,6 +20,9 @@ Explore the specific details of the
 using the linked OpenAPI.
 
 ## Process Diagram
+
+![image](https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/850f0c87-ffd3-40ec-9cb5-7a333ad05909)
+
 
 ## Request to receive
 
