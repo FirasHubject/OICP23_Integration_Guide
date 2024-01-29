@@ -13,6 +13,8 @@ Explore the specific details of the
 using the linked OpenAPI.
 
 ## Process Diagram
+![image](https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/383cf8fa-79e2-46f0-b784-b96c8824354c)
+
 
 ## Request
 
