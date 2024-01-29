@@ -1,6 +1,6 @@
 # eRoamingPullEvseData Service
 
-## Description:
+## Description
 
 As an EMP, you have the capability to actively pull any EVSE within the
 Hubject network to your backend system, encompassing all Point of Interest
@@ -11,9 +11,12 @@ Explore the specific details of the [eRoamingPullEvseData
 Service](https://hubject.github.io/oicp-emp-2.3-api-doc/#tag/eRoamingEvseData/operation/eRoamingPullEvseData_V2.3) using the
 linked OpenAPI.
 
-## Process Diagram:
+## Process Diagram
 
-## Call / JSON Snippet - Endpoint:
+<img width="530" alt="image" src="https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/0109b2cc-5164-4abc-9767-a18fd1e0620f">
+
+
+## Call / JSON Snippet - Endpoint
 
 You can use this example to pull EVSEIDs and POI data from the platform. Adapt
 the example to include your ProviderID (in the url placeholder `providerID`).
@@ -33,7 +36,7 @@ response.
       
     }'
 
-## Response / JSON Snippet - Endpoint:
+## Response / JSON Snippet - Endpoint
 
     
     
@@ -179,13 +182,13 @@ response.
 | Any other status code | Error   |  **Status Code Page URL** |
 
 
-## Best Practices:
+## Best Practices
 
 We recommend pulling the EVSEData daily to have the latest charging stations
 in your system. We recommend executing this request during the night for best
 results.
 
-## Mapping OCPI to OICP:
+## Mapping OCPI to OICP
 |OCPI|OICP|
 |---|---|
 |country_code|CountryCode|
