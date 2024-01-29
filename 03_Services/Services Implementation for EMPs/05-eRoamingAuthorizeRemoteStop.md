@@ -2,7 +2,7 @@
 
 # eRoamingAuthorizeRemoteStop Service (EMP)
 
-## Description:
+## Description
 
 The eRoamingAuthorizeRemoteStop service allows EMPs to send a request to stop
 the charging station to end the charging process. Once the EMP sends the
@@ -17,13 +17,14 @@ the response within a 60-second time frame, otherwise, HBS will close the
 connection with a TimeOut error.
 
 Explore the specific details of the [eRoamingAuthorizeRemoteStop
-Service](https://hubject.github.io/oicp-emp-2.3-api-
-doc/#tag/eRoamingAuthorization/operation/eRoamingAuthorizeRemoteStop_v2.1)
+Service](https://hubject.github.io/oicp-emp-2.3-api-doc/#tag/eRoamingAuthorization/operation/eRoamingAuthorizeRemoteStop_v2.1)
 using the linked OpenAPI.
 
-## Process Diagram:
+## Process Diagram
+<img width="517" alt="image" src="https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/c27652ba-89b6-4a80-bdf0-ca31f8ff5a59">
 
-## Call / JSON Snippet - Endpoint :
+
+## Call / JSON Snippet - Endpoint
 
 You can use this example to perform an AuthorizeRemoteStop to an active
 charging session. Adapt the example to include your ProviderID (in the URL and
@@ -40,7 +41,7 @@ the body request placeholder `providerID`) and the session you want to stop
         "SessionID": "{{sessionID}}"
     }' 
 
-## Response / JSON Snippet - Endpoint:
+## Response / JSON Snippet - Endpoint
 
     
     
@@ -56,7 +57,7 @@ the body request placeholder `providerID`) and the session you want to stop
         "EMPPartnerSessionID": null
     }
 
-## Error Codes:
+## Error Codes
 
 | OICP Status Codes | Description | Additional information |
 | ----------------- | ----------- | ----------------------
