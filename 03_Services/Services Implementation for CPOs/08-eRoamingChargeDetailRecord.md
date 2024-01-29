@@ -2,14 +2,15 @@
 
 ## Description 
 
-A ChargeDetailRecord (CDR) is a request that contains all necessary information related to the charging process such as total consumed energy, duration of the charging session, EVSEID and more values. With this information the CPO can create an invoice that will be sent to the EMP. 
+A ChargeDetailRecord (CDR) is a request that contains all necessary information related to the charging process such as total consumed energy, duration of the charging session, EVSEID, and more values. With this information, the CPO can create an invoice that will be sent to the EMP. 
 
 The CDR MUST be uploaded to the HBS at the moment a charging session is finished. When the HBS receives the CDR it will be forwarded to the EMP and the session will be closed in the HBS. 
 
 Explore the specific details of the eRoamingChargeDetailRecord using the linked OpenAPI.
 
-Process Diagram
+## Process Diagram
 
+![image](https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/85e1069c-a3ec-45ed-b65c-ac3b03c96c65)
 
 
 ## Request
