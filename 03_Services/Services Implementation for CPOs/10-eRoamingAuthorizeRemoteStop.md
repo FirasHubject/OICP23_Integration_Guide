@@ -22,6 +22,8 @@ using the linked OpenAPI.
 
 ## Process Diagram
 
+![image](https://github.com/FirasHubject/OICP23_Integration_Guide/assets/135227574/3ec558e1-8dd6-44b4-89e7-702a8038d642)
+
 ## Request to receive
 
 Here you can see an example of a request that you will receive from Hubject as
