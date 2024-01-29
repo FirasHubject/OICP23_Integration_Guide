@@ -1,10 +1,10 @@
- eRoamingChargeDetailRecord Service
+ #eRoamingChargeDetailRecord Service
 
 ## Description 
 
 A ChargeDetailRecord (CDR) is a request that contains all necessary information related to the charging process such as total consumed energy, duration of the charging session, EVSEID and more values. With this information the CPO can create an invoice that will be sent to the EMP. 
 
-The CDR MUST be uploaded to the HBS at the moment a charging session is finished. When the HBS received the CDR it will be forwarded to the EMP and the session will be closed in the HBS. 
+The CDR MUST be uploaded to the HBS at the moment a charging session is finished. When the HBS receives the CDR it will be forwarded to the EMP and the session will be closed in the HBS. 
 
 Explore the specific details of the eRoamingChargeDetailRecord using the linked OpenAPI.
 
@@ -14,7 +14,7 @@ Process Diagram
 
 ## Request
 
-You can use this example to send an charge detail record (CDR) request. Adapt the example to include your OperatorID (in the url placeholder operatorID and fields placeholder and OperatorID) and your EVSEID (in field placeholder EvseID). In the SessionID field, use a sessionID obtained in the response from a successful AuthoirzeStart request.
+You can use this example to send a charge detail record (CDR) request. Adapt the example to include your OperatorID (in the url placeholder operatorID and fields placeholder and OperatorID) and your EVSEID (in field placeholder EvseID). In the SessionID field, use a sessionID obtained in the response from a successful AuthoirzeStart request.
 
 curl --location 'https://service-qa.hubject.com/api/oicp/cdrmgmt/v22/operators/{{operatorID}}/charge-detail-record' \
 --header 'Content-Type: application/json' \
@@ -57,22 +57,11 @@ Response
 }
 
 Status Code
+| OICP Status Codes | Description | Additional information |
+| ----------------- | ----------- | ----------------------
+| 000               | Success     |                        |
+| Any other status code | Error   |  **Status Code Page URL** |
 
-OICP Status Codes
-
-Description
-
-Additional information
-
-000
-
-Success
-
-Any other status code
-
-Error
-
-Status Code Page
 
 Best Practice
 
