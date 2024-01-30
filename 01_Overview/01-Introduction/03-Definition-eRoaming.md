@@ -1,4 +1,6 @@
-#  Brief explanation on what eRoaming is
+## eRoaming
+
+# Definition
 
 eRoaming, short for "electric vehicle roaming," is a system that enables
 seamless access and interoperability between different charging networks for
