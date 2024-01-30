@@ -1,6 +1,6 @@
 
 
-#  L
+#  Leading Document
 
 Our Integration Guide stands as the **leading document** for a smooth
 integration with HBS.
