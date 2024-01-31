@@ -12,8 +12,7 @@ requests to differentiate pricing in currencies and customize charges based on
 factors such as facility characteristics, EVSE location, and time.
 
 Explore the specific details of the [eRoamingPullPricingProductData
-Service](https://hubject.github.io/oicp-emp-2.3-api-
-doc/#tag/eRoamingDynamicPricing/operation/eRoamingPullPricingProductData_V1.0)
+Service](https://hubject.github.io/oicp-emp-2.3-api-doc/#tag/eRoamingDynamicPricing/operation/eRoamingPullPricingProductData_V1.0)
 using the linked OpenAPI.
 
 ## Process Diagram:
