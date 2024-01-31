@@ -1,5 +1,5 @@
 
-#  Link to OICP 2.3 OpenAPI
+#  Link to OICP 2.3 OpenAPI CPO
 
 In the link below, you can find the detailed information and definition of the
 OICP 2.3 Protocol:
