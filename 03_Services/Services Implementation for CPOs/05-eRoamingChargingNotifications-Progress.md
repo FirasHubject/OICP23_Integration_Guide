@@ -11,8 +11,7 @@ about the charging station's details and session progress, which they can then
 relay to their EV customers.
 
 Explore the specific details of the
-[eRoamingChargingNotifications](https://hubject.github.io/oicp-cpo-2.3-api-
-doc/#tag/eRoamingChargingNotifications/operation/eRoamingChargingNotifications_V1.1)
+[eRoamingChargingNotifications](https://hubject.github.io/oicp-cpo-2.3-api-doc/#tag/eRoamingChargingNotifications/operation/eRoamingChargingNotifications_V1.1)
 using the linked OpenAPI.
 
 ## Process Diagram
