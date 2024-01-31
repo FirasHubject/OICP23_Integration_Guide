@@ -9,8 +9,7 @@ authentication method. To confirm the customer's subscription to an offer, the
 EMP sends an authorization request to Hubject.
 
 Explore the specific details of the [eRoamingAuthorizeRemoteStart
-Service](https://hubject.github.io/oicp-emp-2.3-api-
-doc/#tag/eRoamingAuthorization/operation/eRoamingAuthorizeRemoteStart_v2.1)
+Service](https://hubject.github.io/oicp-emp-2.3-api-doc/#tag/eRoamingAuthorization/operation/eRoamingAuthorizeRemoteStart_v2.1)
 using the linked OpenAPI. _Please note the Optional/Mandatory fields described
 in the Service pertain to the fields required once HBS receives the initial
 request from the EMP._
