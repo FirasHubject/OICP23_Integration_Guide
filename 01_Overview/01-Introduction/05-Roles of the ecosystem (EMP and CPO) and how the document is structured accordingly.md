@@ -6,7 +6,7 @@ emobility services (EMP), which want to enable EV drivers to access charging
 infrastructure and, on the other hand, charge point operators (CPO), which
 want to boost the capacity utilization of their charging infrastructure.
 
-Charge Point Operator (CPO):
+## Charge Point Operator (CPO):
 
 In the HBS, the CPO must perform the following tasks:
 
@@ -20,7 +20,7 @@ In the HBS, the CPO must perform the following tasks:
 
   * Use charging notifications to inform the status of the charging process
 
-eMobility service provider (EMP):
+## eMobility service provider (EMP):
 
 In the HBS, the EMP must perform the following tasks:
 
