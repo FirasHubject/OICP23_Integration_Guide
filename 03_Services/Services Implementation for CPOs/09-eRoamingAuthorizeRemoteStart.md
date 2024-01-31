@@ -8,8 +8,7 @@ of a charging session via the EMP mobile app. Once the EMP sends the
 eRoamingAuthorizeRemoteStart, this will be received by the HBS and the request
 will be forwarded to the CPO’s endpoint previously configured in the HBS
 portal (you can find more information on how to set up your endpoint in [this
-article](https://support.hubject.com/hc/en-
-us/articles/4403736387089-2-7-Service-type-settings)).
+article](https://support.hubject.com/hc/en-us/articles/4403736387089-2-7-Service-type-settings)).
 
 Once the AuthorizeRemoteStart is forwarded to the CPO, the CPO `MUST` provide
 the response within a 60 second time frame, otherwise HBS will close the
