@@ -28,8 +28,7 @@ Here you can see an example of a request that you will receive from Hubject as
 a `POST` for an eRoamingAuthorizeRemoteStop. In order to receive a testing
 request, you can use our remote testing tool in the HBS platform. You can find
 more information in our [testing tool
-article.](https://support.hubject.com/hc/en-us/articles/360013387818-Remote-
-Testing-Tool)
+article.](https://support.hubject.com/hc/en-us/articles/360013387818-Remote-Testing-Tool)
 
     
     
