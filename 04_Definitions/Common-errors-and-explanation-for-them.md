@@ -1,5 +1,5 @@
 
-#  Common errors and explanation for them
+#  Common errors and Explanation
 
 
 TBD
