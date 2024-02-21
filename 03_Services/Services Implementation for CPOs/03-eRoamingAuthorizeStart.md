@@ -59,7 +59,7 @@ placeholder and `OperatorID`) and your EVSEID (in field placeholder `EvseID`)
  | OICP Status Codes | Description | Additional information |
 | ----------------- | ----------- | ----------------------
 | 000               | Success     |                        |
-| Any other status code | Error   |  **Status Code Page URL** |
+| Any other status code | Error   |  **[Status Code Page URL](https://github.com/hubject/OICP23_Integration_Guide/blob/main/04_Definitions/OICP-status-code.md)** |
 
   
 ## Best Practice
