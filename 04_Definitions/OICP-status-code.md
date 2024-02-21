@@ -1,14 +1,14 @@
 |Status Code| Sent By | Description | Additional Information |
 |---|---|---|---|
-|0|HUBJECT|Success|Everything is fine 🙂|
-|1|HUBJECT|Hubject system error|The status code 001 is returned for many reason including any internal problem of Hubject.|
-|2|HUBJECT|Hubject database error||
-|9|HUBJECT|Data transaction error||
-|17|HUBJECT|Unauthorized access|The status code 017 is returned when you are using a wrong SSL certificate or a SSL certificate that it has already expired.|
-|18|HUBJECT|Inconsistent EvseID|This status code 018 is returned when there is a duplicated EvseID included in the body of the request.|
-|19|HUBJECT|Inconsistent EvcoID||
-|21|CPO, EMP|System error|Generic error on the partner side|
-|22||Data error|The status code 022 is returned for many reason but mostly for Bad Request , please check you request carefully.|
+|000|HUBJECT|Success|Everything is fine 🙂|
+|001|HUBJECT|Hubject system error|The status code 001 is returned for many reason including any internal problem of Hubject.|
+|002|HUBJECT|Hubject database error||
+|009|HUBJECT|Data transaction error||
+|017|HUBJECT|Unauthorized access|The status code 017 is returned when you are using a wrong SSL certificate or a SSL certificate that it has already expired.|
+|018|HUBJECT|Inconsistent EvseID|This status code 018 is returned when there is a duplicated EvseID included in the body of the request.|
+|019|HUBJECT|Inconsistent EvcoID||
+|021|CPO, EMP|System error|Generic error on the partner side|
+|022||Data error|The status code 022 is returned for many reason but mostly for Bad Request , please check you request carefully.|
 |101||QR code authentication failed – Invalid credentials||
 |102|EMP|RFID authentication failed – Invalid UID||
 |103||RFID authentication failed – Card not readable||
