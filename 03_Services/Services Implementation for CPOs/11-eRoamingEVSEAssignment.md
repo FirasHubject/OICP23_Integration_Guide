@@ -25,7 +25,7 @@ response.
     
     
  ``` 
- curl --location 'https://service-qa.hubject.com/api/oicp/evsepush/v21/operators/{{operatorID}}/status-records' \
+ curl --location 'https://service-qa.hubject.com/api/evsenetwork/v1/operators/{OperatorID}/network' \
     --header 'Content-Type: application/json' \
     --data '{
   "NetworkName": "Network name",
